@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">En_Tester</string>
     <string name="EditText_title">Перевод</string>
     <string name="TextView_default" />
 </resources>
